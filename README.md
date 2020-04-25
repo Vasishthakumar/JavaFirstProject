@@ -1,1 +1,1 @@
-# JavaFirstProject
+# SQL and NoSQL
